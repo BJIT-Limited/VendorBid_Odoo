@@ -21,7 +21,9 @@
     'depends': ['purchase', 'website','contacts'],
     'license': 'LGPL-3',
     'images': ['static/description/banner.gif'],
+    'website': "https://bjitgroup.com",
     'application': True,
+
 
     # always loaded
     'data': [
