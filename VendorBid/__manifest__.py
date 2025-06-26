@@ -20,6 +20,7 @@
     # any module necessary for this one to work correctly
     'depends': ['purchase', 'website','contacts'],
     'license': 'LGPL-3',
+    'images': ['static/description/banner.gif'],
     'application': True,
 
     # always loaded
