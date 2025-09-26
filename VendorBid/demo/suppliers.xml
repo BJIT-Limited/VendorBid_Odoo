@@ -2,11 +2,11 @@
 <odoo>
     <data>
         <record id="supplier_1" model="res.partner">
-            <field name="name">Creative Solutions</field>
+            <field name="name">Example Solutions</field>
             <field name="company_type">company</field>
             <field name="street">Banani, Dhaka</field>
             <field name="phone">+8801712345678</field>
-            <field name="email">admin@creativesol.com</field>
+            <field name="email">admin@example.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD12345678</field>
             <field name="vat">9998125255783746</field>
@@ -27,11 +27,11 @@
         </record>
 
         <record id="supplier_2" model="res.partner">
-            <field name="name">Tech Innovators</field>
+            <field name="name">Example Innovators</field>
             <field name="company_type">company</field>
             <field name="street">Gulshan, Dhaka</field>
             <field name="phone">+8801812345678</field>
-            <field name="email">info@techinnovators.com</field>
+            <field name="email">info@exampletechinnovators.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD87654321</field>
             <field name="vat">1234567890123456</field>
@@ -52,11 +52,11 @@
         </record>
 
         <record id="supplier_3" model="res.partner">
-            <field name="name">Global Suppliers</field>
+            <field name="name">Example Suppliers</field>
             <field name="company_type">company</field>
             <field name="street">Dhanmondi, Dhaka</field>
             <field name="phone">+8801912345678</field>
-            <field name="email">contact@globalsuppliers.com</field>
+            <field name="email">contact@Examplesuppliers.com</field>
             <field name="supplier_rank">10</field>
             <field name="trade_license_number">BD11223344</field>
             <field name="vat">2345678901234567</field>
@@ -77,11 +77,11 @@
         </record>
 
         <record id="supplier_4" model="res.partner">
-            <field name="name">Prime Solutions</field>
+            <field name="name">Example Solutions</field>
             <field name="company_type">company</field>
             <field name="street">Mirpur, Dhaka</field>
             <field name="phone">+8801612345678</field>
-            <field name="email">support@primesolutions.com</field>
+            <field name="email">support@exampleprimesolutions.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD55667788</field>
             <field name="vat">3456789012345678</field>
@@ -102,11 +102,11 @@
         </record>
 
         <record id="supplier_5" model="res.partner">
-            <field name="name">Innovative Tech</field>
+            <field name="name">Example Tech</field>
             <field name="company_type">company</field>
             <field name="street">Uttara, Dhaka</field>
             <field name="phone">+8801512345678</field>
-            <field name="email">sales@innovativetech.com</field>
+            <field name="email">sales@exampleinnovativetech.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD99887766</field>
             <field name="vat">4567890123456789</field>
@@ -127,11 +127,11 @@
         </record>
 
         <record id="supplier_6" model="res.partner">
-            <field name="name">Future Enterprises</field>
+            <field name="name">Example Enterprises</field>
             <field name="company_type">company</field>
             <field name="street">Motijheel, Dhaka</field>
             <field name="phone">+8801412345678</field>
-            <field name="email">info@futureenterprises.com</field>
+            <field name="email">info@examplefutureenterprises.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD33445566</field>
             <field name="vat">5678901234567890</field>
@@ -152,11 +152,11 @@
         </record>
 
         <record id="supplier_7" model="res.partner">
-            <field name="name">Bright Solutions</field>
+            <field name="name">Example Solutions</field>
             <field name="company_type">company</field>
             <field name="street">Bashundhara, Dhaka</field>
             <field name="phone">+8801312345678</field>
-            <field name="email">contact@brightsolutions.com</field>
+            <field name="email">contact@examplebrightsolutions.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD77889900</field>
             <field name="vat">6789012345678901</field>
@@ -177,11 +177,11 @@
         </record>
 
         <record id="supplier_8" model="res.partner">
-            <field name="name">Smart Technologies</field>
+            <field name="name">Example Technologies</field>
             <field name="company_type">company</field>
             <field name="street">Khilgaon, Dhaka</field>
             <field name="phone">+8801212345678</field>
-            <field name="email">admin@smarttech.com</field>
+            <field name="email">admin@examplesmarttech.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD44556677</field>
             <field name="vat">7890123456789012</field>
@@ -202,11 +202,11 @@
         </record>
 
         <record id="supplier_9" model="res.partner">
-            <field name="name">NextGen Solutions</field>
+            <field name="name">Example-N Solutions</field>
             <field name="company_type">company</field>
             <field name="street">Paltan, Dhaka</field>
             <field name="phone">+8801112345678</field>
-            <field name="email">info@nextgensolutions.com</field>
+            <field name="email">info@examplenextgensolutions.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD66778899</field>
             <field name="vat">8901234567890123</field>
@@ -227,11 +227,11 @@
         </record>
 
         <record id="supplier_10" model="res.partner">
-            <field name="name">Alpha Enterprises</field>
+            <field name="name">Example-A Enterprises</field>
             <field name="company_type">company</field>
             <field name="street">Farmgate, Dhaka</field>
             <field name="phone">+8801012345678</field>
-            <field name="email">support@alphaenterprises.com</field>
+            <field name="email">support@examplealphaenterprises.com</field>
             <field name="supplier_rank">1</field>
             <field name="trade_license_number">BD22334455</field>
             <field name="vat">9012345678901234</field>
@@ -252,11 +252,11 @@
         </record>
 
         <record id='supplier_11' model='res.partner'>
-            <field name='name'>Ryans Computers</field>
+            <field name='name'>Example Computers</field>
             <field name='company_type'>company</field>
             <field name='street'>Elephant Road, Dhaka</field>
             <field name='phone'>+8801912345678</field>
-            <field name='email'>contact@ryans.com</field>
+            <field name='email'>contact@exampleryans.com</field>
             <field name='supplier_rank'>1</field>
             <field name='trade_license_number'>BD12345678</field>
             <field name='vat'>9998121255783746</field>
@@ -278,18 +278,18 @@
 
         <record id="supplier_1_user" model="res.users">
             <field name="partner_id" ref="supplier_1"/>
-            <field name="name">Creative Solutions</field>
+            <field name="name">Example Creative Solutions</field>
             <field name="login">admin@creativesol.com</field>
-            <field name="password">admin@creativesol.com</field>
-            <field name="name">Creative Solutions</field>
+            <field name="password">admin@examplecreativesol.com</field>
+            <field name="name">ExampleCreative Solutions</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
             <field name="company_id" ref="base.main_company"/>
         </record>
 
         <record id="supplier_2_user" model="res.users">
             <field name="partner_id" ref="supplier_2"/>
-            <field name="name">Tech Innovators</field>
-            <field name="login">info@techinnovators.com</field>
+            <field name="name">Example Tech Innovators</field>
+            <field name="login">info@exampletechinnovators.com</field>
             <field name="password">info@techinnovators.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
             <field name="company_id" ref="base.main_company"/>
@@ -297,8 +297,8 @@
 
         <record id="supplier_3_user" model="res.users">
             <field name="partner_id" ref="supplier_3"/>
-            <field name="name">Global Suppliers</field>
-            <field name="login">contact@globalsuppliers.com</field>
+            <field name="name">Example-G Suppliers</field>
+            <field name="login">contact@exampleglobalsuppliers.com</field>
             <field name="password">contact@globalsuppliers.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
             <field name="company_id" ref="base.main_company"/>
@@ -306,17 +306,17 @@
 
         <record id="supplier_4_user" model="res.users">
             <field name="partner_id" ref="supplier_4"/>
-            <field name="name">Prime Solutions</field>
+            <field name="name">Example Prime Solutions</field>
             <field name="login">support@primesolutions.com</field>
-            <field name="password">support@primesolutions.com</field>
+            <field name="password">support@exampleprimesolutions.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
             <field name="company_id" ref="base.main_company"/>
         </record>
 
         <record id="supplier_5_user" model="res.users">
             <field name="partner_id" ref="supplier_5"/>
-            <field name="name">Innovative Tech</field>
-            <field name="login">sales@innovativetech.com</field>
+            <field name="name">Example I Tech</field>
+            <field name="login">sales@exampleinnovativetech.com</field>
             <field name="password">sales@innovativetech.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
             <field name="company_id" ref="base.main_company"/>
@@ -324,7 +324,7 @@
 
         <record id="supplier_6_user" model="res.users">
             <field name="partner_id" ref="supplier_6"/>
-            <field name="name">Future Enterprises</field>
+            <field name="name">Example-F Enterprises</field>
             <field name="login">info@futureenterprises.com</field>
             <field name="password">info@futureenterprises.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
@@ -333,7 +333,7 @@
 
         <record id="supplier_7_user" model="res.users">
             <field name="partner_id" ref="supplier_7"/>
-            <field name="name">Bright Solutions</field>
+            <field name="name">Example-B Solutions</field>
             <field name="login">contact@brightsolutions.com</field>
             <field name="password">contact@brightsolutions.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
@@ -342,7 +342,7 @@
 
         <record id="supplier_8_user" model="res.users">
             <field name="partner_id" ref="supplier_8"/>
-            <field name="name">Smart Technologies</field>
+            <field name="name">Example Technologies</field>
             <field name="login">admin@smarttech.com</field>
             <field name="password">admin@smarttech.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
@@ -351,7 +351,7 @@
 
         <record id="supplier_9_user" model="res.users">
             <field name="partner_id" ref="supplier_9"/>
-            <field name="name">NextGen Solutions</field>
+            <field name="name">Example-N Solutions</field>
             <field name="login">info@nextgensolutions.com</field>
             <field name="password">info@nextgensolutions.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
@@ -360,7 +360,7 @@
 
         <record id="supplier_10_user" model="res.users">
             <field name="partner_id" ref="supplier_10"/>
-            <field name="name">Alpha Enterprises</field>
+            <field name="name">Example-A Enterprises</field>
             <field name="login">support@alphaenterprises.com</field>
             <field name="password">support@alphaenterprises.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
@@ -369,7 +369,7 @@
 
         <record id="supplier_11_user" model="res.users">
             <field name="partner_id" ref="supplier_11"/>
-            <field name="name">Ryans Computers</field>
+            <field name="name">Example-R Computers</field>
             <field name="login">contact@ryans.com</field>
             <field name="password">contact@ryans.com</field>
             <field name="groups_id" eval="[(6, 0, [ref('base.group_portal')])]"/>
