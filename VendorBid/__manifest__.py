@@ -19,7 +19,7 @@
     'version': '0.1',
     # any module necessary for this one to work correctly
     'depends': ['purchase', 'website','contacts'],
-    'live_test_url': 'https://vendorbid.app-odoo.bjitgroup.org/app/previewgit',
+    'live_test_url': 'https://vendorbid.app-odoo.bjitgroup.org/app/preview',
     'license': 'LGPL-3',
     'images': ['static/description/banner.gif'],
     'website': "https://odoo.bjitgroup.com/",
